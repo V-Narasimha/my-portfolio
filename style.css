@@ -7,11 +7,14 @@ body{
 }
 .container{
     padding: 50px;
+    padding-top: 0%;
 }
 .section-one{
     background-color: black;
     padding: 20px;
     color: white ;
+    background-image:url(http://hdqwalls.com/wallpapers/sunset-beach-cp.jpg);
+
 }
 .section-one__contact{
     background-color: orangered;
@@ -42,6 +45,8 @@ body{
     color: white;
     padding: 20px;
     display: block;
+    background-image:url(http://hdqwalls.com/wallpapers/sunset-beach-cp.jpg);
+
 
 }
 .section-three li,.section-four li{
@@ -62,7 +67,7 @@ body{
     padding: 20px;
     display: inline-block;
     height: 200px;
-    border-radius: 1opx;
+    border-radius: 10px;
     vertical-align: top;
 }
 .contact-form {
@@ -93,6 +98,12 @@ body{
 }
 .form{
     padding: 50px;
+    padding-top: 0%;
+}
+a{
+    color: skyblue;
+    text-decoration: none;
+    border-radius: 10px;
 }
 
 
