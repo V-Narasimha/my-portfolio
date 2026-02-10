@@ -95,6 +95,7 @@ body{
     border: none;
     background-color: orangered;
     color: black;
+    border-radius: 10px;
 }
 .form{
     padding: 50px;
